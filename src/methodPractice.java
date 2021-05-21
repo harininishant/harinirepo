@@ -7,6 +7,9 @@ public class methodPractice {
         System.out.println(si(10000, 20, 4));
          greeting("harini",3);
 
+        System.out.println("feature");
+        System.out.println("second change");
+
 
 
     }
